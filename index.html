@@ -758,7 +758,8 @@ async function fetchGitHubData() {
     const member = nameMatch ? nameMatch[1] : "unknown";
 
     const blob = await fetch(`${base}/contents/${file.path}`, { headers }).then(r => r.json());
-    const content = atob(blob.content.replace(/\n/g, ""));
+    const raw = atob(blob.content.replace(/\n/g, ""));
+    const content = new TextDecoder("utf-8").decode(Uint8Array.from(raw, c => c.charCodeAt(0)));
 
     const weekScreenshots = tree.tree.filter(f =>
       f.path.startsWith(`week-${String(week).padStart(2,'0')}/screenshots/${member}`) ||
