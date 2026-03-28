@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "729fe7c41e6ec47c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba0ca28632dcae78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a7c0df87ba8452e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week01/testzemma-jlkasfjslk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testzemma-jlkasfjslk"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79c16443c5c9e14c",
+    "type": "split",
+    "children": [
+      {
+        "id": "781f09e218273e11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e9728d85396de5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "67c6c0863d9e9321",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "83017a136e27e6a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f3ff9f9e3ef25d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d58db44414fc6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167e2ebcd545e157",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week01/testzemma-jlkasfjslk.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "testzemma-jlkasfjslk 의 백링크"
+            }
+          },
+          {
+            "id": "76c75cd82b5827ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "week01/testzemma-jlkasfjslk.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "testzemma-jlkasfjslk 의 나가는 링크"
+            }
+          },
+          {
+            "id": "e9746ed4d5831913",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "6ecf457702b08eb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "d8a2ef3859d80690",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "week01/testzemma-jlkasfjslk.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "testzemma-jlkasfjslk 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "97e9728d85396de5",
+  "lastOpenFiles": [
+    "week01"
+  ]
+}
